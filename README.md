@@ -7,7 +7,8 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/cruzium.png" alt="TryHackMe">
 
-<img align="right" alt="Bruh" width = "350" src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif">
+<img align="right" alt="Bruh" width = "400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+
 - 🌱 I’m currently working on **CTF & Competitive Programming 😶‍🌫️**
 
 - 📫 How to reach me **cruzium798@gmail.com**
