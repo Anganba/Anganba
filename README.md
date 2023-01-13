@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Anganba_" target="blank"><img src="https://img.shields.io/twitter/follow/anganba_?logo=twitter&style=for-the-badge" alt="anganba_" /></a> </p>
 
+<p align="left"> <a href="https://fb.com/cruzium" target="blank"><img src="https://img.shields.io/facebook/follow/cruzium?logo=facebook&style=for-the-badge" alt="cruzium" /></a> </p>
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/cruzium.png" alt="TryHackMe">
