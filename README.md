@@ -33,5 +33,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Anganba&show_icons=true&theme=tokyonight&locale=en" alt="anganba" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anganba&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anganba" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anganba&theme=dark" alt="anganba" /></p>
+</p>
 
