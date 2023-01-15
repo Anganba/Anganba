@@ -36,3 +36,4 @@
 <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=Anganba&show_icons=true&theme=tokyonight&locale=en" alt="anganba" />
 </p>
 
+![snake gif](https://github.com/Anganba/Anganba/blob/output/github-contribution-grid-snake.gif)
