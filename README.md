@@ -33,8 +33,8 @@
 
 <h2 align="center"> ⚡Stats ⚡</h1>
 <p>
-<img height="160em" width="430" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anganba&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anganba" />
-<img height="160em" width="430" src="https://github-readme-stats.vercel.app/api?username=Anganba&show_icons=true&theme=tokyonight&locale=en" alt="anganba" />
+<img height="150em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anganba&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anganba" />
+<img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=Anganba&show_icons=true&theme=tokyonight&locale=en" alt="anganba" />
 </p>
 
 <h2 align="center"> 🐍 Snake eating my contribution 🐍 </h2>
