@@ -33,6 +33,6 @@
 
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anganba&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anganba" />
-<img height="180em" width="475"src="https://github-readme-stats.vercel.app/api?username=Anganba&show_icons=true&theme=tokyonight&locale=en" alt="anganba" />
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anganba&show_icons=true&theme=tokyonight&locale=en" alt="anganba" />
 </p>
 
