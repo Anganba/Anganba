@@ -1,5 +1,4 @@
 <h1 align="center">Yo 👋, I'm Anganba (Cruzium)</h1>
-<h3 align="center">A passionate CTF Player</h3>
 
 <p align="left">  </p>
 
