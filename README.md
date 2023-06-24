@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently working on **CTF & CP 😶‍🌫️**
+- 🌱 I’m currently working on **CTF 😶‍🌫️**
 
 - 📫 How to reach me **cruzium798@gmail.com**
 
