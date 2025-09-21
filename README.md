@@ -8,7 +8,7 @@
 <a href="https://fb.com/cruzium" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="cruzium" /></a> 
 <img align="right" src="https://komarev.com/ghpvc/?username=anganba&label=Visitors&color=0e75b6&style=flat" alt="anganba" />
 </p>
-<img align="right" alt="Bruh" width = "400" src="https://drive.google.com/file/d/11tiHP-B3j_r_A0XoUetQ_m51Ovg6WVJ5/view?usp=drive_link">
+<iframe src="https://drive.google.com/file/d/11tiHP-B3j_r_A0XoUetQ_m51Ovg6WVJ5/preview" width="640" height="480" allow="autoplay" alt="bruh"></iframe>
 <img src="https://tryhackme-badges.s3.amazonaws.com/cruzium.png" alt="TryHackMe">
 
 
