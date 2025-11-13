@@ -1,8 +1,8 @@
 name: My GitHub Metrics
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows manual triggering
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   metrics:
@@ -30,7 +30,6 @@ jobs:
           plugin_isocalendar: yes
           
       - name: Generate Languages
-        # This step now ONLY generates languages
         uses: lowlighter/metrics@latest
         with:
           user: anganba
@@ -42,7 +41,6 @@ jobs:
           plugin_languages_details: "bytes-size, percentage"
           
       - name: Generate Habits
-        # This step now ONLY generates habits
         uses: lowlighter/metrics@latest
         with:
           user: anganba
@@ -55,3 +53,45 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_charts: "true" 
           plugin_habits_lines: 4
+          # This adds the "mildly interesting facts"
+          plugin_habits_facts: yes 
+
+      # --- NEW STEPS YOU ASKED FOR ---
+
+      - name: Generate Recent Activity
+        uses: lowlighter/metrics@latest
+        with:
+          user: anganba
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.activity.svg
+          base: ""
+          theme: dracula
+          plugin_activity: yes
+          plugin_activity_limit: 5         # Show 5 recent activities
+          plugin_activity_days: 14         # Look at last 2 weeks
+          plugin_activity_filter: all      # Show all types of activity
+          plugin_activity_visibility: all
+
+      - name: Generate Starred Topics
+        uses: lowlighter/metrics@latest
+        with:
+          user: anganba
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.topics.svg
+          base: ""
+          theme: dracula
+          plugin_topics: yes
+          plugin_topics_mode: icons    # This matches your screenshot
+          plugin_topics_sort: stars    # Sort by stars
+          plugin_topics_limit: 0       # 0 = no limit on icons
+
+      - name: Generate GitHub Projects
+        uses: lowlighter/metrics@latest
+        with:
+          user: anganba
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.projects.svg
+          base: ""
+          theme: dracula
+          plugin_projects: yes
+          plugin_projects_limit: 2   # Show 2 projects like your screenshot
