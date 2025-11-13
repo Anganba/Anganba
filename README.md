@@ -45,7 +45,20 @@
       <img src="https://github.com/anganba/anganba/blob/main/metrics.languages.svg" alt="Most Used Languages" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github.com/anganba/anganba/blob/main/metrics.habits.svg" alt="Commit Habits" />
+      <img src="https://github.com/anganba/anganba/blob/main/metrics.habits.svg" alt="Commit Habits & Activity" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github.com/anganba/anganba/blob/main/metrics.activity.svg" alt="Recent Activity" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github.com/anganba/anganba/blob/main/metrics.topics.svg" alt="Starred Topics" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="https://github.com/anganba/anganba/blob/main/metrics.projects.svg" alt="GitHub Projects" />
     </td>
   </tr>
 </table>
