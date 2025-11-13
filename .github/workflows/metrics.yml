@@ -1,0 +1,58 @@
+name: My GitHub Metrics
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Allows manual triggering from the "Actions" tab
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit the generated SVG files
+    steps:
+      - name: Generate Base Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: anganba
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.base.svg
+          base: "header, activity, community, metadata"
+          theme: dracula # Nerdy theme!
+          
+      - name: Generate Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          user: anganba
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.isocalendar.svg
+          base: "" 
+          theme: dracula
+          plugin_isocalendar: yes
+          
+      - name: Generate Language & Habits
+        uses: lowlighter/metrics@latest
+        with:
+          user: anganba
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.languages.svg
+          base: "" 
+          theme: dracula
+          plugin_languages: yes
+          plugin_languages_details: "bytes-size, percentage"
+          plugin_habits: yes
+          plugin_habits_from: 200 
+          plugin_habits_days: 14  
+          
+      - name: Generate Habits (separate file, for the table)
+        uses: lowlighter/metrics@latest
+        with:
+          user: anganba
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.habits.svg
+          base: "" 
+          theme: dracula
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: "true" 
+          plugin_habits_lines: 4
