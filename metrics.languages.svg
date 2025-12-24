@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="378.92190414443587" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="378.92190414443587" y="0" width="53.75421275537927" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="432.67611689981516" y="0" width="18.269362718133177" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="450.9454796179483" y="0" width="4.134761142123859" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="455.0802407600722" y="0" width="3.9265357608658222" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.006776520938" y="0" width="0.6428330879654396" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.64960960890346" y="0" width="0.25651512644774754" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.90612473535117" y="0" width="0.09387526464879918" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="379.36701016117905" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="379.36701016117905" y="0" width="53.459110566924636" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="432.82612072810366" y="0" width="18.16906678515529" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="450.995187513259" y="0" width="4.112061952623482" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="455.1072494658825" y="0" width="3.904979696016544" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.01222916189903" y="0" width="0.6393040352392296" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.6515331971383" y="0" width="0.25510689867719255" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.9066400958154" y="0" width="0.09335990418457499" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,8 +40,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>980 kB</div>
-                                <div>82.37%</div>
+                                <div>987 kB</div>
+                                <div>82.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,7 +53,7 @@
                             </div>
                             <small>
                                 <div>47.2 kB</div>
-                                <div>3.97%</div>
+                                <div>3.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>139 kB</div>
-                                <div>11.69%</div>
+                                <div>11.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>10.7 kB</div>
-                                <div>0.9%</div>
+                                <div>0.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
