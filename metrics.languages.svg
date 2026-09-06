@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="242.02836292329712" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="242.02836292329712" y="0" width="189.69858879187862" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="431.72695171517574" y="0" width="20.287511370582422" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.01446308575817" y="0" width="4.606652158670752" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.6211152444289" y="0" width="1.565655878656786" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.1867711230857" y="0" width="1.4043924292702812" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.59116355235597" y="0" width="0.3364979880033743" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.92766154035934" y="0" width="0.07233845964063093" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.96363687579748" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="241.96363687579748" y="0" width="189.40320532885852" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="431.366842204656" y="0" width="20.255921281257734" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.6227634859137" y="0" width="4.599479048547881" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.2222425344616" y="0" width="1.56321796460439" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.785460499066" y="0" width="1.4022056217571677" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.18766612082317" y="0" width="0.4763598589142514" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.66402597973746" y="0" width="0.33597402026260853" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,8 +40,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>7.31 MB</div>
-                                <div>52.61%</div>
+                                <div>7.32 MB</div>
+                                <div>52.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,7 +53,7 @@
                             </div>
                             <small>
                                 <div>612 kB</div>
-                                <div>4.41%</div>
+                                <div>4.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -71,13 +71,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                Batchfile
                             </div>
                             <small>
-                                <div>10.1 kB</div>
-                                <div>0.07%</div>
+                                <div>14.4 kB</div>
+                                <div>0.1%</div>
                             </small>
                         </div>
                     </section>
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>5.73 MB</div>
-                                <div>41.24%</div>
+                                <div>41.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,19 +115,19 @@
                             </div>
                             <small>
                                 <div>42.4 kB</div>
-                                <div>0.31%</div>
+                                <div>0.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Batchfile
+                                Java
                             </div>
                             <small>
-                                <div>2.19 kB</div>
-                                <div>0.02%</div>
+                                <div>10.1 kB</div>
+                                <div>0.07%</div>
                             </small>
                         </div>
                     </section>
